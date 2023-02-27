@@ -1,4 +1,3 @@
-import React from "react";
 import Clients from "../components/Clients";
 import Projects from "../components/Projects";
 import AddClientModal from "../components/AddClientModal";
@@ -11,7 +10,6 @@ export default function Home() {
         <AddClientModal />
         <AddProjectModal />
       </div>
-
       <Projects />
       <hr />
       <Clients />

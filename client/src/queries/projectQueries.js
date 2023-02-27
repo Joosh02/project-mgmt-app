@@ -27,4 +27,4 @@ const GET_PROJECT = gql`
   }
 `;
 
-export { GET_PROJECT, GET_PROJECTS };
+export { GET_PROJECTS, GET_PROJECT };
